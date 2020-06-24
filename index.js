@@ -8,11 +8,11 @@ function whisper(arg){
   return arg.toLowerCase()
 }
 
-function longShout(arg){
+function logShout(arg){
   console.log(arg.toUppercase())
 }
 
-function longWhisper(arg){
+function logWhisper(arg){
   console.log(arg.toLowerCase())
 }
 
