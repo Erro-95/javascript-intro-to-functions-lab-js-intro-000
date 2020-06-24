@@ -9,11 +9,11 @@ function whisper(arg){
 }
 
 function longShout(arg){
-  console.log(arg.toUppercase())
+  return console.log(arg.toUppercase())
 }
 
 function longWhisper(arg){
-  console.log(arg.toLowerCase())
+  return console.log(arg.toLowerCase())
 }
 
 function sayHiToGrandma(arg){
